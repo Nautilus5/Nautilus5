@@ -9,3 +9,5 @@
 - 👯 I’m looking to collaborate on data science and software projects.
 - 🤔 I’m looking for help with finding low-hours part-time data science contract work.
 - ⚡ I spend my free time lifting weights, bouldering, and playing vidia games.
+
+Here is one of the leading technologies for using deep learning in data science, [Keras](https://github.com/keras-team/keras).
